@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/fileserver.o
+./release/filereader.o
+./release/requesthandler.o
+./release/responsedispatcherthread.o
+./release/requestdispatcherthread.o
+./release/concretebuffer.o
+./release/threadpool.o
+./release/hoaremonitor.o
+./release/moc_fileserver.o
+./release/moc_responsedispatcherthread.o
+);
